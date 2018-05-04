@@ -1,0 +1,4 @@
+ /home/vadim/OSaSP/Lab1/lab1.sh   lab1.sh   104
+ /home/vadim/OSaSP/Lab1/Trash.txt   Trash.txt   13
+ /home/vadim/OSaSP/Laboratornye_raboty_OSiSP_ch1.pdf   Laboratornye_raboty_OSiSP_ch1.pdf   497787
+ /home/vadim/OSaSP/Lab2/lab2.sh   lab2.sh   301
